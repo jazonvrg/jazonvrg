@@ -16,7 +16,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/vvngh118/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nghiavvv887@gmail.com" target="_blank">
