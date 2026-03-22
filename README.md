@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👾, I'm Nghia Vo</h1>
 
-<h4 align="center">Honors Semiconductor Tech Student | IC Design Intern | Aspiring Digital IC Designer</h4>
+<h4 align="center">Honors Semiconductor Technology Student | IC Design Intern | Aspiring Digital IC Design Engineer</h4>
 
 <p align="center">
-  I'm a sophomore majoring in Semiconductor Technology at HCMUS. I aspire to become a Digital IC Design and Verification Engineer. I have a strong passion for exploring the complete Digital ASIC design flow, building robust RTL, and verifying hardware with standard AMBA protocols.
+  I'm a student majoring in Semiconductor Technology at HCMUS. I aspire to become a Digital IC Design and Verification Engineer. I have a strong passion for exploring the complete Digital ASIC design flow, building robust RTL, and verifying hardware with standard AMBA protocols.
 </p>
 
 <br/>
 
 🌱 Currently focusing on **Digital IC Design & Verification** 📖 Learning more about **SystemVerilog, UVM & Physical Design**
-🔭 Currently working on an **AHB-Compliant DMA Master Controller**
 
 ---
 
