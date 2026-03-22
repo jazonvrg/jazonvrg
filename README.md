@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌷, I'm Nghia Vo</h1>
+<h1 align="center">Hi 👾, I'm Nghia Vo</h1>
 
 <h4 align="center">Honors Semiconductor Tech Student | IC Design Intern | Aspiring Digital IC Designer</h4>
 
