@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👾, I'm Nghia Vo</h1>
+<h1 align="center">Hi 👾, I'm Vo Van Nghia</h1>
 
 <h4 align="center">Honors Semiconductor Technology Student | IC Design Intern | Aspiring Digital IC Design Engineer</h4>
 
 <p align="center">
-  I'm a student majoring in Semiconductor Technology at HCMUS. I aspire to become a Digital IC Design and Verification Engineer. I have a strong passion for exploring the complete Digital ASIC design flow, building robust RTL, and verifying hardware with standard AMBA protocols.
+ I'm an Honors Semiconductor Technology student at HCMUS, actively pursuing the full-flow of Digital ASIC design. Rather than sticking to just one phase, I am deeply interested in all three tracks: RTL Design, Verification, and Physical Design. From building robust hardware with AMBA protocols to exploring physical implementations, I enjoy tackling complex IC challenges.
 </p>
 
 <br/>
@@ -26,16 +26,3 @@
 ### 🛠 Tools & Tech
 
 ![Verilog](https://img.shields.io/badge/Verilog-%23F89820.svg?style=flat-square&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%2314354C.svg?style=flat-square) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Questa Sim](https://img.shields.io/badge/Questa%20Sim-%23000000.svg?style=flat-square&logo=mentor&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/VIM-%23119716.svg?style=flat-square&logo=vim&logoColor=white)
-
----
-
-### ⭐ Favorite Projects
-
-<p align="left">
-  <a href="https://github.com/vovannghia/ten-repo-cua-ong-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vovannghia&repo=ten-repo-cua-ong-1&theme=tokyonight&show_icons=true" alt="Project 1 Card" />
-  </a>
-  <a href="https://github.com/vovannghia/ten-repo-cua-ong-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vovannghia&repo=ten-repo-cua-ong-2&theme=tokyonight&show_icons=true" alt="Project 2 Card" />
-  </a>
-</p>
