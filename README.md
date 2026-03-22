@@ -8,7 +8,8 @@
 
 <br/>
 
-🌱 Currently focusing on **Digital IC Design & Verification** 📖 Learning more about **SystemVerilog, UVM & Physical Design**
+🌱 Currently focusing on **Digital IC Design & Verification** 
+📖 Learning more about **SystemVerilog, UVM & Physical Design**
 
 ---
 
@@ -20,6 +21,9 @@
   </a>
   <a href="mailto:nghiavvv887@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="[https://facebook.com/link-facebook-cua-ong](https://www.facebook.com/vvngh118/)" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
