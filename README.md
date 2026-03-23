@@ -16,13 +16,13 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/vvngh118/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/vvngh118/](https://www.linkedin.com/in/vvngh118/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nghiavvv887@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[https://facebook.com/link-facebook-cua-ong](https://www.facebook.com/vvngh118/)" target="_blank">
+  <a href="[https://www.facebook.com/vvngh118/](https://www.facebook.com/vvngh118/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
